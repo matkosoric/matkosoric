@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=matkosoric">Matko's GitHub stats</a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=matkosoric" alt="Matko&#39;s GitHub stats"></a><
   <img src="https://komarev.com/ghpvc/?username=matkosoric&style=plastic">
 </p>
   
